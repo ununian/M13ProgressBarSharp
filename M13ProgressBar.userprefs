@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="M13ProgressBarDemo/M13ProgressBarDemo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="M13ProgressBar/libM13ProgressBar.linkwith.cs">
+    <Files>
+      <File FileName="M13ProgressBarDemo/ViewController.cs" Line="43" Column="1" />
+      <File FileName="M13ProgressBar/StructsAndEnums.cs" Line="17" Column="47" />
+      <File FileName="M13ProgressBar/ApiDefinition.cs" Line="656" Column="33" />
+      <File FileName="M13ProgressBar/libM13ProgressBar.linkwith.cs" Line="6" Column="22" />
+      <File FileName="../M13ProgressBarSharp/M13ProgressBarSharp/ApiDefinition.cs" Line="69" Column="39" />
+      <File FileName="../M13ProgressBarSharp/M13ProgressBarSharp/libM13ProgressBar.linkwith.cs" Line="4" Column="104" />
+      <File FileName="M13ProgressBarDemo/AppDelegate.cs" Line="25" Column="10" />
+      <File FileName="M13ProgressBar/obj/Debug/ios/M13ProgressBar/UINavigationController_M13ProgressViewBar.g.cs" Line="115" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sino/Projects/M13ProgressBar/M13ProgressBarDemo/ViewController.cs" line="41" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
